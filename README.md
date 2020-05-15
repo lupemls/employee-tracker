@@ -18,4 +18,6 @@ Allows user to view employees, add new empmloyees, update role, view roles, add 
 
 Select exit to end the connection.
 
-<a href="./assets/employee-tracker-screenshot">App in Use</a>
+assets/employee-tracker-screenshot.png
+
+assets/employee-tracker-screenshot-2.png
