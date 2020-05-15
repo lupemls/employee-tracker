@@ -18,6 +18,21 @@ Allows user to view employees, add new empmloyees, update role, view roles, add 
 
 Select exit to end the connection.
 
+Picture of the Options you can select:
+
+![](assets\employee-tracker-options.png)
+
+
+Pictures showing different functionality that can be used:
+
 ![](assets/employee-tracker-screenshot.png)
 
 ![](assets/employee-tracker-screenshot-2.png)
+
+Challenges:
+
+Getting the connection queries set up for each function was a pain. It required getting the data and sometimes using that data to find other data.
+
+Joins are also a bit hard to wrap my head around, and took some experimenting to get them to work how I wanted them to.
+
+(Gifs are hard to make, so I settled for a couple of screenshots)
