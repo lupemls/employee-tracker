@@ -186,7 +186,7 @@ const updateEmployeeRole = () => {
                                 if(err) throw err;
                                 console.log('Updated role of', answer.employee, 'to', answer.newRole);
                                 init();
-                            } //// Doesn't appear to actually update
+                            }
                         )
                     })
                 }
