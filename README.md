@@ -20,7 +20,7 @@ Select exit to end the connection.
 
 Picture of the Options you can select:
 
-![](assets\employee-tracker-options.png)
+![](assets/employee-tracker-options.png)
 
 
 Pictures showing different functionality that can be used:
